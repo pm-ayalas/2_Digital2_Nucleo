@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:6:16:X	6
+../Core/Src/sd_card.c:13:13:Deselect	1
+../Core/Src/sd_card.c:14:16:Ready	5
+../Core/Src/sd_card.c:15:16:Command	6
+../Core/Src/sd_card.c:22:9:SDCard_Init	21
+../Core/Src/sd_card.c:45:9:SDCard_Read	11

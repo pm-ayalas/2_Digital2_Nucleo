@@ -1,0 +1,9 @@
+../Core/Src/fat_reader.c:6:17:U16	16	static
+../Core/Src/fat_reader.c:7:17:U32	16	static
+../Core/Src/fat_reader.c:8:16:ValidCluster	16	static
+../Core/Src/fat_reader.c:9:17:Next	16	static
+../Core/Src/fat_reader.c:13:16:Boot	48	static
+../Core/Src/fat_reader.c:24:9:FR_Mount	40	static
+../Core/Src/fat_reader.c:32:9:FR_Open	40	static
+../Core/Src/fat_reader.c:50:10:FR_Size	4	static
+../Core/Src/fat_reader.c:51:9:FR_Read	24	static

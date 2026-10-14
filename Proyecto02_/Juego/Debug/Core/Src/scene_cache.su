@@ -1,0 +1,4 @@
+../Core/Src/scene_cache.c:8:6:SceneCache_Begin	4	static
+../Core/Src/scene_cache.c:14:6:SceneCache_Append	24	static
+../Core/Src/scene_cache.c:30:9:SceneCache_Ready	4	static
+../Core/Src/scene_cache.c:34:10:SceneCache_Pixel	24	static

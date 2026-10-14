@@ -1,0 +1,2 @@
+../Core/Src/level1_scene.c:1008:9:Level1_Draw	16	static
+../Core/Src/level1_scene.c:1015:9:LevelScene_DrawStructure	24	static

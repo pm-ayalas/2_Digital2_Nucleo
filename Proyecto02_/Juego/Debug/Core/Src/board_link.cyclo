@@ -1,0 +1,15 @@
+../Core/Inc/wire_protocol.h:6:23:WireCRC	4
+../Core/Inc/wire_protocol.h:9:20:WireMake	1
+../Core/Inc/wire_protocol.h:13:19:WireFeed	7
+../Core/Inc/dual_input.h:11:20:PlayerInput_Byte	9
+../Core/Inc/dual_input.h:26:23:PlayerInput_Alive	4
+../Core/Src/board_link.c:18:6:BoardLink_Init	1
+../Core/Src/board_link.c:33:13:Receive	8
+../Core/Src/board_link.c:52:6:USART3_IRQHandler	1
+../Core/Src/board_link.c:53:6:UART5_IRQHandler	1
+../Core/Src/board_link.c:54:16:ConnectedAt	3
+../Core/Src/board_link.c:58:9:BoardLink_Connected	1
+../Core/Src/board_link.c:63:9:BoardLink_Buttons	8
+../Core/Src/board_link.c:78:13:Send	4
+../Core/Src/board_link.c:85:6:BoardLink_AudioState	3
+../Core/Src/board_link.c:89:6:BoardLink_Effect	1

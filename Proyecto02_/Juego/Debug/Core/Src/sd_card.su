@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:6:16:X	24	static
+../Core/Src/sd_card.c:13:13:Deselect	8	static
+../Core/Src/sd_card.c:14:16:Ready	24	static
+../Core/Src/sd_card.c:15:16:Command	24	static
+../Core/Src/sd_card.c:22:9:SDCard_Init	56	static
+../Core/Src/sd_card.c:45:9:SDCard_Read	40	static

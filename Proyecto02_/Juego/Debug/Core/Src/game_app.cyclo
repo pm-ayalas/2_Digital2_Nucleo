@@ -1,0 +1,13 @@
+../Core/Src/game_app.c:74:16:ReadButtons	1
+../Core/Src/game_app.c:76:13:ResetButtons	2
+../Core/Src/game_app.c:89:16:ButtonEvent	9
+../Core/Src/game_app.c:108:13:DrawIntro	3
+../Core/Src/game_app.c:119:13:DrawLevelMenu	2
+../Core/Src/game_app.c:125:6:GameApp_Init	1
+../Core/Src/game_app.c:135:9:GameApp_GetSelectedLevel	1
+../Core/Src/game_app.c:140:13:StartPlayableLevel	12
+../Core/Src/game_app.c:165:16:PausePressed	6
+../Core/Src/game_app.c:187:13:RestorePausedScreen	12
+../Core/Src/game_app.c:203:16:GameApp_PollCore	43
+../Core/Src/game_app.c:356:13:DrawLinkDiagnostics	1
+../Core/Src/game_app.c:385:9:GameApp_Poll	9

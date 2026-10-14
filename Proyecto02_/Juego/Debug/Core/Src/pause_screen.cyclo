@@ -1,0 +1,2 @@
+../Core/Src/pause_screen.c:461:6:Pause_DrawChoice	5
+../Core/Src/pause_screen.c:479:6:Pause_Draw	1

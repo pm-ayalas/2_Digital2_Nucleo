@@ -1,0 +1,3 @@
+../Core/Src/storage.c:10:17:U32	16	static
+../Core/Src/storage.c:11:6:Storage_Init	8	static
+../Core/Src/storage.c:15:9:Storage_Draw	72	static

@@ -1,0 +1,16 @@
+../Core/Src/gameplay.c:79:17:PuddlePixel	8
+../Core/Src/gameplay.c:93:16:Pixel	4
+../Core/Src/gameplay.c:99:16:HorizontalOverlap	3
+../Core/Src/gameplay.c:104:16:VerticalOverlap	3
+../Core/Src/gameplay.c:109:16:IsGrounded	4
+../Core/Src/gameplay.c:119:16:CheckPuddles	7
+../Core/Src/gameplay.c:147:16:BothAtOwnDoors	9
+../Core/Src/gameplay.c:161:9:Gameplay_IsWon	1
+../Core/Src/gameplay.c:166:13:MovePlayer	27
+../Core/Src/gameplay.c:214:17:SpritePixel	7
+../Core/Src/gameplay.c:224:13:DrawPatch	12
+../Core/Src/gameplay.c:250:13:RestoreRect	1
+../Core/Src/gameplay.c:255:13:DrawPuddles	4
+../Core/Src/gameplay.c:267:9:Gameplay_Start	13
+../Core/Src/gameplay.c:307:9:Gameplay_Update	26
+../Core/Src/gameplay.c:370:9:Gameplay_Resume	7
